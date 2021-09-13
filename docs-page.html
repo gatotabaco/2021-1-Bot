@@ -93,7 +93,10 @@
 					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-1">Termo de Abertura</a></li>
 					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-2">Documento de Visão</a></li>
 					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-3">Documento de Arquitetura</a></li>
-					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-3.1">Documentação de evolução de DevOps</a>
+					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-3.1">Documentação de evolução de
+							DevOps</a>
+					</li>
+					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-3.2">Requisitos do Produto</a>
 					</li>
 					<li class="nav-item"><a class="nav-link scrollto" href="#item-1-4">Identidade
 							Visual e Personalidade do Bot</a>
@@ -1430,6 +1433,183 @@
 							<p><i>&lt;</i>iframe src="<a
 									href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqGRTgDVmQxrsq90kGuEbR-3erJeX67kQgF4UB9D0BE5dASLXsTxJ8mwxVmhef9wZeX59WkRvRELGj/pubhtml?gid=1851366216&amp;single=true&amp;widget=true&amp;headers=false&quot;">https://docs.google.com/spreadsheets/d/e/2PACX-1vQqGRTgDVmQxrsq90kGuEbR-3erJeX67kQgF4UB9D0BE5dASLXsTxJ8mwxVmhef9wZeX59WkRvRELGj/pubhtml?gid=1851366216&amp;single=true&amp;widget=true&amp;headers=false"</a>
 								width="900px" height="400px"&gt;</p>
+						</section>
+					</section>
+
+					<section class="docs-section" id="item-1-3.2">
+						<section class='markdown-preview' data-use-github-style>
+							<h1 id="requisitos-do-produto">Requisitos do produto</h1>
+							<p>Este documento esta com a elicitação dos requisitos gerados no início do projeto. </p>
+							<h2 id="histórico-de-versões">Histórico de versões</h2>
+							<table>
+								<thead>
+									<tr>
+										<th align="center">Data</th>
+										<th align="center">Versão</th>
+										<th align="center">Descrição</th>
+										<th align="center">Autor(es)</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td align="center">02/09/2021</td>
+										<td align="center">0.1</td>
+										<td align="center">Criação da estrutura do documento</td>
+										<td align="center">Ana Carolina</td>
+									</tr>
+									<tr>
+										<td align="center">02/09/2021</td>
+										<td align="center">0.2</td>
+										<td align="center">Criação da primeira versão</td>
+										<td align="center">Ana Carolina</td>
+									</tr>
+									<tr>
+										<td align="center">11/09/2021</td>
+										<td align="center">0.3</td>
+										<td align="center">Correção de bugs da extensão e alteração de localidade para a
+											pasta docs; Alteração do nome bot para chatbot e correção ortográfica</td>
+										<td align="center">Ana Carolina</td>
+									</tr>
+								</tbody>
+							</table>
+							<h2 id="categoria-de-prioridades">Categoria de prioridades</h2>
+							<table>
+								<thead>
+									<tr>
+										<th align="left">Tipo</th>
+										<th align="left">Descrição</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td align="left">Alta</td>
+										<td align="left">Requisitos indispensáveis para o funcionamento do chatbot</td>
+									</tr>
+									<tr>
+										<td align="left">Intermediária</td>
+										<td align="left">Requisitos importantes para o sistema, mas caso não sejam
+											implementados não resultará em um mau funcionamento do chatbot</td>
+									</tr>
+									<tr>
+										<td align="left">Útil</td>
+										<td align="left">Requisitos que não são usados com tanta frequência e não são
+											tão significativos na satisfação que o usuário tem sobre o chatbot</td>
+									</tr>
+								</tbody>
+							</table>
+							<h2 id="lista-de-requisitos">Lista de requisitos</h2>
+							<table>
+								<thead>
+									<tr>
+										<th align="left">Identificador</th>
+										<th align="left">Requisito</th>
+										<th align="left">Dependente de</th>
+										<th align="left">Prioridade</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td align="left">RF01</td>
+										<td align="left">Permitir que o usuário diga olá, para começar a conversa.</td>
+										<td align="left">---</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF02</td>
+										<td align="left">Mostrar a lista funcionalidades dos três temas logo depois da
+											primeira interação.</td>
+										<td align="left">RF01</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF03</td>
+										<td align="left">Permitir ao usuário solucionar dúvidas gerais sobre a COVID-19.
+										</td>
+										<td align="left">RF02</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF04</td>
+										<td align="left">Permitir que o usuário saiba informações sobre as vacinas que
+											estão disponíveis.</td>
+										<td align="left">RF01,RF02</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF05</td>
+										<td align="left">Permitir que o usuário saiba sobre a prevenção no sentido
+											geral.(comum)</td>
+										<td align="left">RF01</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF06</td>
+										<td align="left">Permitir que o usuário saiba sobre prevenção em locais fechados
+											e abertos.</td>
+										<td align="left">RF01,RF05</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF07</td>
+										<td align="left">Permitir que o usuário visualize o número de infectados.</td>
+										<td align="left">RF01,RF02</td>
+										<td align="left">Baixa</td>
+									</tr>
+									<tr>
+										<td align="left">RF08</td>
+										<td align="left">Permitir que o usuário receba notificação sobre a data da
+											próxima vacina.</td>
+										<td align="left">RF04</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF00</td>
+										<td align="left">Habilitar comunicação entre as normas de políticas públicas em
+											conjunto com vacinação e prevenção.</td>
+										<td align="left">---</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF10</td>
+										<td align="left">Permite ao usuário saber mais sobre o CoronaVírus.</td>
+										<td align="left">RF03</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF11</td>
+										<td align="left">Suportar o grande número de informações atualizadas sobre a
+											COVID-19 no banco de dados.</td>
+										<td align="left">---</td>
+										<td align="left">Intermediária</td>
+									</tr>
+									<tr>
+										<td align="left">RF12</td>
+										<td align="left">Assegurar a qualidade e transparência da informação com o
+											usuário.</td>
+										<td align="left">---</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF13</td>
+										<td align="left">Permitir ao usuário saber dos sintomas quando infectado.</td>
+										<td align="left">RF03</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF14</td>
+										<td align="left">Permitir que ele saiba os lugares de testes.</td>
+										<td align="left">RF14</td>
+										<td align="left">Alta</td>
+									</tr>
+									<tr>
+										<td align="left">RF15</td>
+										<td align="left">Permitir que o usuário dê tchau ao chatbot sabendo que a
+											conversa acabou.</td>
+										<td align="left">RF01</td>
+										<td align="left">Útil</td>
+									</tr>
+								</tbody>
+							</table>
 						</section>
 					</section>
 
