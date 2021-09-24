@@ -3,8 +3,8 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: https://fga-eps-mds.github.io/
-baseurl: /2021-1-Bot
+url: https://fga-eps-mds.github.io
+baseurl: "/2021-1-Bot"
 # collections:
 
 defaults:
@@ -21,7 +21,6 @@ defaults:
 title: AlligaBot
 description: Entenda melhor alguns tópicos relacionados a COVID-19.
 avatar: /assets/img/ogp.png
-# favicon: /favicon.ico
 favicon: /assets/img/ogp.png
 # language: ja
 language: pt
