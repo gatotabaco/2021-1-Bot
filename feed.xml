@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://fga-eps-mds.github.io/2021-1-Bot/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fga-eps-mds.github.io/2021-1-Bot/" rel="alternate" type="text/html" /><updated>2021-09-24T04:16:54+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/feed.xml</id><title type="html">AlligaBot</title><subtitle>Entenda melhor alguns tópicos relacionados a COVID-19.</subtitle><entry><title type="html">Código de conduta</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/docs/2021/08/21/code_of_conduct/" rel="alternate" type="text/html" title="Código de conduta" /><published>2021-08-21T03:00:00+00:00</published><updated>2021-08-21T03:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/docs/2021/08/21/code_of_conduct</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/docs/2021/08/21/code_of_conduct/">&lt;h1 id=&quot;código-de-conduta&quot;&gt;Código de conduta&lt;/h1&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor(es)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Abertura do documento&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/gatotabaco&quot;&gt;Matheus Sousa&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Renomeação do documento&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/gatotabaco&quot;&gt;Matheus Sousa&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;31/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Adição de tópicos e informações&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/AmandaNbr&quot;&gt;Amanda Nobre&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Correção de erros ortagráficos,morfológicos e versão&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/AnaCarolinaRodriguesLeite&quot;&gt;Ana Carolina&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ajustando a referência conforme a ABNT&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/AmandaNbr&quot;&gt;Amanda Nobre&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;propósito&quot;&gt;Propósito&lt;/h2&gt;
+
+&lt;p&gt;O projeto é gerenciado por estudantes durante a execução da disciplina de Métodos de Desenvolvimento de Software da Universidade de Brasília. Assim, no interesse de promover um ambiente aberto e acolhedor, os estudantes como contribuintes e mantenedores a se comprometerem a fazer participação no projeto e na comunidade provendo uma experiência livre de assédio para todos.&lt;/p&gt;
+
+&lt;h2 id=&quot;comportamento&quot;&gt;Comportamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;comportamentos-aceitáveis&quot;&gt;Comportamentos aceitáveis&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Respeito por diferentes opiniões, pontos de vista e experiências.&lt;/li&gt;
+  &lt;li&gt;Fazer e receber críticas sempre de maneira construtiva.&lt;/li&gt;
+  &lt;li&gt;Responsabilidade por seus erros e aprendizado através da experiência.&lt;/li&gt;
+  &lt;li&gt;Uso de linguagem acolhedora e inclusiva.&lt;/li&gt;
+  &lt;li&gt;Demonstrar empatia com os membros da comunidade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;comportamentos-inaceitáveis&quot;&gt;Comportamentos inaceitáveis&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Uso de linguagem ou imagem de conotação sexual.&lt;/li&gt;
+  &lt;li&gt;Trollagem, insultos ou depreciação e ataques pessoais ou políticos.&lt;/li&gt;
+  &lt;li&gt;Assédio, sendo público ou não.&lt;/li&gt;
+  &lt;li&gt;Publicar informações pessoais de terceiros sem permissão. Como por exemplo fotos, email pessoal, etc.&lt;/li&gt;
+  &lt;li&gt;Qualquer outra conduta que, dentro do princípio da razoabilidade, pode ser considerada como não adequada em um ambiente profissional.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responsabilidades&quot;&gt;Responsabilidades&lt;/h2&gt;
+
+&lt;p&gt;Os mantenedores do projeto são responsáveis por esclarecer os padrões de
+comportamento dentro do código de conduta, em caso de dúvida, e devem tomar as medidas corretivas adequadas e justas em
+resposta a quaisquer instâncias de comportamentos inaceitáveis, tendo também o direito e a responsabilidade de remover, editar ou
+rejeitar comentários, confirmações, código e outras contribuições
+que não estejam alinhados a este Código de Conduta, ou para banir temporariamente ou
+permanentemente qualquer contribuidor por comportamentos que considerem inadequados,
+ameaçadores, ofensivos ou prejudiciais.&lt;/p&gt;
+
+&lt;h2 id=&quot;escopo&quot;&gt;Escopo&lt;/h2&gt;
+
+&lt;p&gt;Esse Código de Conduta é aplicado dentro do projeto e em locais públicos onde um indivíduo esteja representando o projeto ou sua comunidade. Exemplos são um e-mail oficial sobre o projeto, ou participação em eventos como representante.&lt;/p&gt;
+
+&lt;h2 id=&quot;execução&quot;&gt;Execução&lt;/h2&gt;
+
+&lt;p&gt;Casos de comportamento inaceitáveis podem ser reportados ao entrar em contato com rocha.carla@gmail.com. Todas as reclamações serão analisadas e investigadas e resultarão em uma resposta que será apropriada à circunstância. A equipe do projeto é
+obrigado a manter sigilo em relação ao relator de um incidente.&lt;/p&gt;
+
+&lt;p&gt;Os mantenedores do projeto que não seguirem ou aplicarem o Código de Conduta de boa fé podem enfrentar advertências temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.&lt;/p&gt;
+
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;
+
+&lt;p&gt;ORGANIZATION FOR ETHICAL SOURCE. Contributor Covenant, 2014. Latest Version. Disponível em: https://www.contributor-covenant.org/version/2/1/code_of_conduct/. Acesso em: 11 de set. de 2021.&lt;/p&gt;</content><author><name></name></author><category term="docs" /></entry><entry><title type="html">Folha De Estilo</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/20/folha-de-estilo/" rel="alternate" type="text/html" title="Folha De Estilo" /><published>2021-08-20T00:00:00+00:00</published><updated>2021-08-20T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/20/folha-de-estilo</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/20/folha-de-estilo/">&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor(es)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;09/09&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Primeiras regras de estilo&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yudi Yamane&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;folha-de-estilo&quot;&gt;Folha de Estilo&lt;/h1&gt;
+&lt;p&gt;Este documento explica o estilo de código Python usado no projeto. O estilo é 
+baseado no &lt;a href=&quot;https://www.python.org/dev/peps/pep-0008/&quot;&gt;PEP 8&lt;/a&gt; com poucas 
+modificações que serão explicadas abaixo juntamente com outros exemplos.&lt;/p&gt;
+
+&lt;p&gt;Para os curiosos, a ferramenta escolhida para verificar o estilo e formatação é
+o &lt;a href=&quot;https://pypi.org/project/autopep8/&quot;&gt;autopep8&lt;/a&gt;. Foi escolhida por ser 
+flexível, popular e ter a opção de realizar a formatação automaticamente.&lt;/p&gt;
+
+&lt;p&gt;Antes de fazer push das suas alterações execute o linter (consulte o 
+&lt;a href=&quot;/Makefile&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;makefile&lt;/code&gt;&lt;/a&gt; para saber o comando).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fique atento: este documento sobre estilo de código ainda está em 
+desenvolvimento e ainda pode mudar.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exemplos&quot;&gt;Exemplos&lt;/h2&gt;
+
+&lt;h3 id=&quot;nomenclatura-de-variáveis-funções-classes-métodos-etc&quot;&gt;Nomenclatura de variáveis, funções, classes, métodos etc&lt;/h3&gt;
+&lt;p&gt;A linguagem Python não tem um padrão fixo para nomenclatura de variáveis e 
+funções. Ainda assim existem algumas diretrizes gerais que são seguidas pela 
+comunidade e que serão adotadas nesse projeto.&lt;/p&gt;
+
+&lt;p&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;snake_case&lt;/code&gt; para nomes de variáveis e funções e use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CamelCase&lt;/code&gt; para nomes
+de classes.&lt;/p&gt;
+
+&lt;h3 id=&quot;tabs-ou-espaços&quot;&gt;Tabs ou espaços?&lt;/h3&gt;
+&lt;p&gt;Use 4 espaços para cada nível de indentação. Configure o tab para 4 espaços no
+seu editor de texto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Faça&lt;/strong&gt; assim:&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;my_func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IS_OK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Não&lt;/strong&gt; faça assim:&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;my_func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IS_OK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;espaços-em-branco-em-expressões&quot;&gt;Espaços em branco em expressões&lt;/h3&gt;
+&lt;p&gt;Evite espaços em branco desnecessários.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Faça&lt;/strong&gt; assim:&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ham&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;eggs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Não&lt;/strong&gt; faça assim:&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ham&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;eggs&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Coloque espaços entre os operadores de menor prioridade.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Faça&lt;/strong&gt; assim:&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;submitted&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;hypot2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Não&lt;/strong&gt; faça assim:&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;submitted&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;hypot2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As referencias devem está em formato &lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;ABNT&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pycodestyle.pycqa.org/en/latest/intro.html&quot;&gt;Introdução ao pycodestyle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hhatto/autopep8/issues/378&quot;&gt;Como usar arquivo de configuração para autopep8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html">Branches</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/19/branches/" rel="alternate" type="text/html" title="Branches" /><published>2021-08-19T00:00:00+00:00</published><updated>2021-08-19T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/19/branches</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/19/branches/">&lt;h1 id=&quot;política-de-branches&quot;&gt;Política de Branches&lt;/h1&gt;
+
+&lt;p&gt;Padronização das branches no projeto.&lt;/p&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de Versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Criação da política de branch&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Alterações&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;23/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.2.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Correção do formato e prefixos&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;08/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Alteração na nomenclatura&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;08/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.3.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Correção de exemplo&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;padronização-das-branches&quot;&gt;Padronização das Branches&lt;/h2&gt;
+
+&lt;h3 id=&quot;prefixos&quot;&gt;Prefixos:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;feature&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hotfix&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;documentation&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;improvement&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;formato&quot;&gt;Formato:&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;prefixo&amp;gt;#número da issue/assunto
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Não esquecer de dividir as palavras(sempre minúsculas) do assunto com “-“.
+Exemplo:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;feature#87/novo-menu
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;branches&quot;&gt;Branches:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Branch main:&lt;/strong&gt; Branch que contém o código em nível de produção, será o código mais consolidado existente na aplicação. Nenhum integrante dos times é autorizado a fazer commits diretamente na &lt;em&gt;main.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Branch develop:&lt;/strong&gt; 
+A main irá contér todo código já testado, versionado que será entregue ao cliente e a &lt;strong&gt;develop&lt;/strong&gt; é onde todo fluxo de trabalho irá ocorrer antes de fazer o release versionado que será feito merge na main.
+Quando as features são terminadas, elas são juntadas nesta branch, testadas e somente depois as atualizações da develop passam pelo processo de juntar as novas atualizações com a branch main;
+A &lt;strong&gt;develop&lt;/strong&gt; deve sempre conter o código mais atual, onde as branchs de features serão ramificadas tendo ela como base.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Branches feature:&lt;/strong&gt; Como o nome já diz, são branches na qual são desenvolvidos novos recursos ao projeto. São criadas começando com o prefixo &lt;strong&gt;feature/&lt;/strong&gt;.
+Exemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;feature#22/novo-layout&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Branchs hotfix:&lt;/strong&gt; Branches no qual são realizadas correções de bugs São criadas começando com o prefixo &lt;strong&gt;hotfix/&lt;/strong&gt;.
+Exemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hotfix#02/correcao-botao&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Branches documentation:&lt;/strong&gt; Branches na qual são desenvolvidos os documentos do projeto. São ciradas começando com o prefixo &lt;strong&gt;documentation/&lt;/strong&gt;
+Exemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;documentation#49/template-documento&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Branches improvement:&lt;/strong&gt; Branche para melhoria de algum componente e afins, seja de performance, de escrita de layout, etc. Exemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;improvement#101/otimizacao-layout&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;princípios&quot;&gt;Princípios:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Por ser um projeto voltado totalmente para um público brasileiro e por toda equipe ter mais afinidade com o português, foi decidido que todas as braches serão em pt-BR.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;p&gt;DULCETTI, Bruno. Padrões e nomenclaturas no Git. &lt;em&gt;BrunoDulcetti&lt;/em&gt;. Disponível em: &lt;a href=&quot;https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/&quot;&gt;https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/&lt;/a&gt;. Acesso em: 10 de ago. de 2021.&lt;/p&gt;
+
+&lt;p&gt;Políticas de Branches. Disponível em: &lt;a href=&quot;https://fga-eps-mds.github.io/2018.2-ComexStat/docs/politicaBranches&quot;&gt;https://fga-eps-mds.github.io/2018.2-ComexStat/docs/politicaBranches&lt;/a&gt;. Acesso em: 10 de ago. de 2021&lt;/p&gt;
+
+&lt;p&gt;HADLER, Mikael. Utilizando o fluxo Git Flow. &lt;em&gt;Medium&lt;/em&gt;. Disponível em: &lt;a href=&quot;https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04&quot;&gt;https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04&lt;/a&gt;. Acesso em: 16 de ago. de 2021&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Commits</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/18/commits/" rel="alternate" type="text/html" title="Commits" /><published>2021-08-18T00:00:00+00:00</published><updated>2021-08-18T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/18/commits</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/18/commits/">&lt;h1 id=&quot;política-de-commits&quot;&gt;Política de Commits&lt;/h1&gt;
+
+&lt;p&gt;Padronização dos commits no projeto.&lt;/p&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de Versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;09/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Criação da política de commits&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Alterações&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;semântica-do-commit&quot;&gt;Semântica do Commit&lt;/h2&gt;
+
+&lt;p&gt;Os commits devem seguir o seguinte padrão:&lt;/p&gt;
+
+&lt;h3 id=&quot;princípios&quot;&gt;Princípios:&lt;/h3&gt;
+
+&lt;h4 id=&quot;commits-atômicos&quot;&gt;Commits atômicos&lt;/h4&gt;
+&lt;p&gt;Sempre dividir em pequenos e significativos commits, fazendo com que cada commit tenha apenas uma funcionalidade.&lt;/p&gt;
+
+&lt;h4 id=&quot;commits-em-português&quot;&gt;Commits em português&lt;/h4&gt;
+&lt;p&gt;Por ser um projeto voltado totalmente para um público brasileiro e por toda equipe ter mais afinidade com o português, foi decidido que todos os commits serão em pt-BR.&lt;/p&gt;
+
+&lt;h3 id=&quot;formato&quot;&gt;Formato:&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;tipo&amp;gt;(#número da issue): assunto
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;tipos&quot;&gt;Tipos:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;:bulb: quando adicionar nova funcionalidade&lt;/li&gt;
+  &lt;li&gt;:repeat: quando alguma alteração for feita&lt;/li&gt;
+  &lt;li&gt;:cool: quando melhorias de formato/estrutura do código&lt;/li&gt;
+  &lt;li&gt;:racehorse: quando melhorar o desempenho&lt;/li&gt;
+  &lt;li&gt;🚱  quando resolver memory leaks&lt;/li&gt;
+  &lt;li&gt;:pencil: quando escrever documentação&lt;/li&gt;
+  &lt;li&gt;:bug: quando consertar um problema&lt;/li&gt;
+  &lt;li&gt;:fire: quando remover código ou arquivos&lt;/li&gt;
+  &lt;li&gt;:green_heart: quando consertar problemas de Integração Contínua&lt;/li&gt;
+  &lt;li&gt;:white_check_mark: quando adicionar testes&lt;/li&gt;
+  &lt;li&gt;:lock: quando lidar com segurança&lt;/li&gt;
+  &lt;li&gt;:arrow_up: quando realizar o upgrade de dependências&lt;/li&gt;
+  &lt;li&gt;:arrow_down: quando realizar downgrade de dependências&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;assunto&quot;&gt;Assunto:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Deve possuir no máximo 50 caracteres&lt;/li&gt;
+  &lt;li&gt;Devem estar em letras minúsculas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Exemplo de commit:&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git commit -m &quot;:bulb:(#02): botão na página inicial&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;p&gt;DARTORA, João. Tudo o que você precisa saber sobre commits semânticos. &lt;em&gt;Ilegra&lt;/em&gt;. Disponível em: &lt;a href=&quot;https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/&quot;&gt;https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/&lt;/a&gt;. Acesso em: 09 de ago. de 2021.&lt;/p&gt;
+
+&lt;p&gt;Políticas de Commit. Disponível em: &lt;a href=&quot;https://fga-eps-mds.github.io/2020.1-Grupo6/policies/commits/&quot;&gt;https://fga-eps-mds.github.io/2020.1-Grupo6/policies/commits/&lt;/a&gt;. Acesso em: 09 de ago. de 2021&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Template</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/17/template/" rel="alternate" type="text/html" title="Template" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/17/template</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/17/template/">&lt;h1 id=&quot;título-do-documento&quot;&gt;Título do documento&lt;/h1&gt;
+
+&lt;p&gt;Texto explicando o que é e porque o fizemos tal documentação.&lt;/p&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor(es)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Todos documentos devem ter seus autores registrados.
+&lt;strong&gt;Autor:&lt;/strong&gt; &lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;Lameque Fernandes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As referencias devem está em formato &lt;a href=&quot;https://github.com/LamequeFernandes&quot;&gt;ABNT&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html">Contributing</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/16/contributing/" rel="alternate" type="text/html" title="Contributing" /><published>2021-08-16T00:00:00+00:00</published><updated>2021-08-16T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/16/contributing</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/16/contributing/">&lt;h1 id=&quot;como-contribuir&quot;&gt;Como contribuir&lt;/h1&gt;
+
+&lt;p&gt;Antes de fazer qualquer alteração no repositório, crie uma issue e se responsabilize por essa alteração. Atente-se a &lt;a href=&quot;https://github.com/fga-eps-mds/2021-1-Bot/blob/main/docs/politicas/branches.md&quot;&gt;política de branchs&lt;/a&gt;
+e a &lt;a href=&quot;https://github.com/fga-eps-mds/2021-1-Bot/blob/main/docs/politicas/commits.md&quot;&gt;política de commits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30/08/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Envio inicial&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/https://github.com/gatotabaco&quot;&gt;Matheus Sousa&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;criação-de-issues&quot;&gt;Criação de Issues&lt;/h2&gt;
+
+&lt;p&gt;Ao criar issues atente-se aos seguintes critérios:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Já existe issue referente ao assunto que você pretende abordar na sua?&lt;/li&gt;
+  &lt;li&gt;Aguarde que sua issue seja aprovada por algum dos responsáveis pelo repositório.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ao-criar-um-pull-request&quot;&gt;Ao criar um Pull Request&lt;/h2&gt;
+
+&lt;p&gt;Ao fazer um pull request atente-se para:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linkar o PR a sua Issue correspondente&lt;/li&gt;
+  &lt;li&gt;Marcar um dos responsáveis para revisão&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Autor: &lt;a href=&quot;https://github.com/https://github.com/gatotabaco&quot;&gt;Matheus Sousa&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author></entry><entry><title type="html">Documento De Devops</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/15/documento-de-devops/" rel="alternate" type="text/html" title="Documento De Devops" /><published>2021-08-15T00:00:00+00:00</published><updated>2021-08-15T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/15/documento-de-devops</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/15/documento-de-devops/">&lt;h1 id=&quot;documentação-de-evolução-de-devops&quot;&gt;Documentação de evolução de DevOps&lt;/h1&gt;
+
+&lt;p&gt;Esse documento foi criado com o intuito de centralizar informações sobre deploys e pipelines desenvolvidas e estabilizadas pelo time de DevOps.&lt;/p&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Data&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Versão&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Descrição&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Autor(es)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;03/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Criação da estrutura inicial&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Thaís Rebouças&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;03/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Criação do roadmap&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Thaís Rebouças e Yudi Yamane&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;09/09/2021&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0.2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Correção dos links&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Thaís Rebouças&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;ferramentas-utilizadas&quot;&gt;Ferramentas utilizadas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ambiente de desenvolvimento: Docker&lt;/li&gt;
+  &lt;li&gt;Pipeline - CI: GitHub Actions&lt;/li&gt;
+  &lt;li&gt;Deploy - CD: Heroku&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h2&gt;
+
+&lt;h3 id=&quot;release-1&quot;&gt;Release 1&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vQqGRTgDVmQxrsq90kGuEbR-3erJeX67kQgF4UB9D0BE5dASLXsTxJ8mwxVmhef9wZeX59WkRvRELGj/pubhtml?gid=0&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false&quot; width=&quot;900px&quot; height=&quot;400px&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;release-2&quot;&gt;Release 2&lt;/h3&gt;
+&lt;iframe src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vQqGRTgDVmQxrsq90kGuEbR-3erJeX67kQgF4UB9D0BE5dASLXsTxJ8mwxVmhef9wZeX59WkRvRELGj/pubhtml?gid=1851366216&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false&quot; width=&quot;900px&quot; height=&quot;400px&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author></entry><entry><title type="html">Roadmap</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/14/roadmap/" rel="alternate" type="text/html" title="Roadmap" /><published>2021-08-14T00:00:00+00:00</published><updated>2021-08-14T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/14/roadmap</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/14/roadmap/">&lt;h1 id=&quot;roadmap-do-produto&quot;&gt;Roadmap do Produto&lt;/h1&gt;
+
+&lt;p&gt;Esse documento contêm a documentação das atividades realizadas em todas as sprints até a R1.&lt;/p&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+&lt;p&gt;| Data  |  Versão  |  Descrição  | Autor(es) |
+| —– | ——– | ———– | ——— |
+|  10/09/2021 |  0.1 | Versão 1 do roadmap | Pedro Lucas; Ana Carolina; Matheus Akio  |
+|  11/09/2021 |  0.2 | Correção de erro ortográfico | Ana Carolina  |&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/49570180/132893211-28b53da3-deaa-4fe7-9362-fbe31fcbe13c.jpg&quot; alt=&quot;Roadmap&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para visualização ampliada, clique no link: &lt;a href=&quot;https://github.com/fga-eps-mds/2021-1-Bot/files/7145446/Roadmap.pdf&quot;&gt;Roadmap.pdf&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Documento De Backlog</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/13/documento-de-backlog/" rel="alternate" type="text/html" title="Documento De Backlog" /><published>2021-08-13T00:00:00+00:00</published><updated>2021-08-13T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/13/documento-de-backlog</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/13/documento-de-backlog/">&lt;h1 id=&quot;backlog-do-produto&quot;&gt;Backlog do Produto&lt;/h1&gt;
+
+&lt;p&gt;Esse documento contêm os itens que deverão ser desenvolvidos pelos times de desenvolvimento, levando em conta os requisitos levantados.&lt;/p&gt;
+
+&lt;h1 id=&quot;histórico-de-revisão&quot;&gt;Histórico de revisão&lt;/h1&gt;
+&lt;p&gt;|Data|Versão|Alteração|Autor| 
+  |—-|——|———|—–|
+  |19/08/2021|0.1|Primeira definição de funcionalidades|Pedro Lucas|
+  |24/08/2021|0.2|Alterações gerais|Ana Carolina, Pedro Lucas e Thaís Rebouças|
+  |24/08/2021|0.2|Criação de épicos e features|Pedro Lucas e Thaís Rebouças|
+  |29/08/2021|0.3|Criação de histórias de usuário|Pedro Lucas e Thaís Rebouças|
+  |01/09/2021|0.4|Adição da definição do MoSCoW e pequenas correções na estrutura do documento|Thaís Rebouças|
+  |01/09/2021|0.4|Adição de priorização levando em conta o time Capivaras|Thaís Rebouças|
+  |02/09/2021|0.5|Adição de pontos levando em conta o time Plus Ultra|Pedro Lucas|&lt;/p&gt;
+
+&lt;h1 id=&quot;referências&quot;&gt;Referências&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Railsware Product Academy. MoSCoW prioritization for your product backlog. Youtube, 19 de Setembro de 2019. Disponível em: https://www.youtube.com/watch?v=DzruAbBhY0Q. Acesso em: 01 de Setembro de 2021.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;1-introdução&quot;&gt;1. Introdução&lt;/h1&gt;
+
+&lt;h2 id=&quot;12-abreviações-e-seus-significados&quot;&gt;1.2 Abreviações e seus significados&lt;/h2&gt;
+&lt;p&gt;|Abreviação|Significado|
+|———-|———–|
+|EP|Epics|
+|FT|Features|
+|US|User Stories|&lt;/p&gt;
+
+&lt;h2 id=&quot;13-termos-importantes-que-serão-utilizados-nesse-documento&quot;&gt;1.3 Termos importantes que serão utilizados nesse documento&lt;/h2&gt;
+&lt;p&gt;|Termo|Definição|
+|———-|———–|
+|Epics|Epics são descrições gerais do que se deseja no software|
+|Features|Features são semelhantes a Epics, porém são mais detalhadas em relação ao que é função|
+|User Stories|User Stories são exemplos de usuários que irão utilizar a função de uma feature em questão|&lt;/p&gt;
+
+&lt;h2 id=&quot;14-priorização-com-moscow&quot;&gt;1.4 Priorização com MoSCoW&lt;/h2&gt;
+
+&lt;p&gt;O MoSCoW é uma técnica utilizada para definir a prioridade dos requisitos presentes no projeto. As classificações são dadas por Must, Should, Could e Won’t, que juntas formam o acrônimo MoSCoW. Essas classificações são dadas, para que se possa hierarquizar a necessidade dos requisitos ao projeto. Entendendo as regras de priorização, fizemos essa classificação para dar início à abertura desse documento.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Must: Deve ter este requisito para atender às necessidades de negócios.&lt;/li&gt;
+  &lt;li&gt;Should: Deve ter este requisito, se possível, mas o sucesso do projeto não depende dele.&lt;/li&gt;
+  &lt;li&gt;Could: Pode ter este requisito se não afetar mais nada no projeto.&lt;/li&gt;
+  &lt;li&gt;Won’t: Gostaria de ter esse requisito mais tarde, mas a entrega não será desta vez.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;2-backlog&quot;&gt;2. Backlog&lt;/h1&gt;
+
+&lt;h2 id=&quot;ep01-sobre-o-bot&quot;&gt;EP01: Sobre o bot&lt;/h2&gt;
+&lt;p&gt;Será uma epic para ser uma informação inicial, onde o usuário terá o primeiro contato com o bot e terá uma breve explicação sobre suas funcionalidades.&lt;/p&gt;
+
+&lt;h3 id=&quot;ft01-cumprimentodespedida&quot;&gt;FT01: Cumprimento/Despedida&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US01&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo receber cumprimento do bot para dar início a conversa&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US02&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber o que o bot é&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US03&lt;/td&gt;
+      &lt;td&gt;Eu, como administrador do bot, desejo adicionar o tópico para que o bot seja capaz de manter uma conversa&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US04&lt;/td&gt;
+      &lt;td&gt;Eu, como administrador do bot, desejo adicionar o tópico para que o bot entre em Fallback quando necessário&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US05&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo receber mensagem de despedida do bot para finalizar a conversa&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft02-apresentação-de-funcionalidades&quot;&gt;FT02: Apresentação de funcionalidades&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US06&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber sobre as funcionalidades existentes no bot&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;ep02-informação-sobre-covid&quot;&gt;EP02: Informação sobre covid&lt;/h2&gt;
+&lt;p&gt;Será uma epic para informar o usuário e tirar dúvidas gerais sobre a covid.&lt;/p&gt;
+
+&lt;h3 id=&quot;ft03-transmissão-e-prevenção&quot;&gt;FT03: Transmissão e prevenção&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US07&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber sobre as variantes do covid&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US08&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber sobre as formas de transmissão&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US09&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber mais sobre o vírus&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US10&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber sobre as formas gerais de prevenção&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US11&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber sobre os sintomas da covid&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US12&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber qual a quantidade de infectados por covid na minha cidade/país&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US13&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber qual a quantidade de mortos por covid na minha cidade/país&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft04-regras-para-lugares-específicos&quot;&gt;FT04: Regras para lugares específicos&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US14&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber os cuidados que devo ter em locais abertos&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US15&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber os cuidados que devo ter em locais fechados&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US16&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber qual a diferença de contaminação entre locais abertos e fechados&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US17&lt;/td&gt;
+      &lt;td&gt;Eu, como cliente, desejo saber os cuidados que devo ter em restaurantes&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US18&lt;/td&gt;
+      &lt;td&gt;Eu, como cliente, desejo saber os cuidados que devo ter na academia&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US19&lt;/td&gt;
+      &lt;td&gt;Eu, como cliente, desejo saber os cuidados que devo ter no dentista&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US20&lt;/td&gt;
+      &lt;td&gt;Eu, como cliente, desejo saber os cuidados que devo ter em barbearia/cabelereiro&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft05-como-continuar-trabalhando-de-maneira-segura&quot;&gt;FT05: Como continuar trabalhando de maneira segura&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US21&lt;/td&gt;
+      &lt;td&gt;Eu, como funcionário, desejo saber os cuidados que devo tomar no escritório&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US22&lt;/td&gt;
+      &lt;td&gt;Eu, como funcionário, desejo saber os cuidados que devo ter no atendimento aos clientes&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft06-preciso-pegar-transporte-público&quot;&gt;FT06: Preciso pegar transporte público&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US23&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber como me cuidar no transporte público&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft07-home-office-e-saúde-mental&quot;&gt;FT07: Home office e saúde mental&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US24&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber como lidar com o home office&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US25&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber como posso me exercitar em casa&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US26&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber como cuidar da minha saúde mental na pandemia&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft08-vacinação&quot;&gt;FT08: Vacinação&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US27&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber qual a quantidade de vacinados na minha cidade/país&lt;/td&gt;
+      &lt;td&gt;Could&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US28&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber quando posso me vacinar&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US29&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber se as vacinas são seguras&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US30&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber se eu preciso me vacinar&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US31&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber como as vacinas aprovadas pela anvisa agem no organismo&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US32&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber quantas doses da vacina preciso tomar&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US33&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo saber qual a eficácia de cada vacina aprovada pela anvisa&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft09-detecção&quot;&gt;FT09: Detecção&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US34&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário com suspeita de covid, desejo saber oque fazer&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US35&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário com suspeita de covid, desejo saber aonde me testar&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US36&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário com suspeita de covid, desejo saber qual tipo de exame devo fazer e porque&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US37&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, testei positivo para covid e quero saber oque fazer&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;ep03-lembrete-programado&quot;&gt;EP03: Lembrete programado&lt;/h2&gt;
+&lt;p&gt;Será uma epic para criar lembretes programados.&lt;/p&gt;
+
+&lt;h3 id=&quot;ft10-lembrete-de-vacinação&quot;&gt;FT10: Lembrete de vacinação&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US38&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo cadastrar a data da próxima dose da vacina&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US39&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo ser lembrado da próxima dose da vacina&lt;/td&gt;
+      &lt;td&gt;Must&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ft11-avisos-e-cuidados&quot;&gt;FT11: Avisos e cuidados&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ID&lt;/th&gt;
+      &lt;th&gt;User Story&lt;/th&gt;
+      &lt;th&gt;Prioridade&lt;/th&gt;
+      &lt;th&gt;Pontos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US40&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo cadastrar interesse em receber mensagens sobre as principais descobertas sobre a covid&lt;/td&gt;
+      &lt;td&gt;Could&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US41&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo ser notificado sobre as principais descobertas sobre a covid&lt;/td&gt;
+      &lt;td&gt;Could&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US42&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo cadastrar interesse em receber mensagens sobre dicas de home office&lt;/td&gt;
+      &lt;td&gt;Could&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US43&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo receber dicas de home office&lt;/td&gt;
+      &lt;td&gt;Could&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US44&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo cadastrar interesse em receber mensagens sobre dicas de saúde mental&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;US45&lt;/td&gt;
+      &lt;td&gt;Eu, como usuário, desejo receber dicas de saúde mental&lt;/td&gt;
+      &lt;td&gt;Should&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author></entry><entry><title type="html">Canvas</title><link href="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/12/canvas/" rel="alternate" type="text/html" title="Canvas" /><published>2021-08-12T00:00:00+00:00</published><updated>2021-08-12T00:00:00+00:00</updated><id>https://fga-eps-mds.github.io/2021-1-Bot/2021/08/12/canvas</id><content type="html" xml:base="https://fga-eps-mds.github.io/2021-1-Bot/2021/08/12/canvas/">&lt;h1 id=&quot;canvas&quot;&gt;Canvas&lt;/h1&gt;
+
+&lt;h2 id=&quot;histórico-de-versões&quot;&gt;Histórico de versões&lt;/h2&gt;
+&lt;p&gt;| Data  |  Versão  |  Descrição  | Autor(es) |
+| —– | ——– | ———– | ——— |
+|  04/09/2021 |  0.1 | Criação da versão inicial do documento | &lt;a href=&quot;https://github.com/PedroLSF&quot;&gt;Pedro Lucas&lt;/a&gt; e &lt;a href=&quot;https://github.com/klmurussi&quot;&gt;Kathlyn Lara&lt;/a&gt;  |&lt;/p&gt;
+
+&lt;h1 id=&quot;1-introdução&quot;&gt;1. Introdução&lt;/h1&gt;
+&lt;p&gt;O documento tem como objetivo de mostrar de forma geral alguns pontos específicos do projeto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/85000470/132109048-6930900e-2478-483f-83e5-9dfb51bbcc38.jpeg&quot; alt=&quot;Canvas- Bot&quot; /&gt;&lt;/p&gt;</content><author><name></name></author></entry></feed>
